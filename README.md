@@ -5,6 +5,8 @@ In order to run this, please follow the guidlines listed in readme.txt
 
 The application used python for development, and SQL for database management
 
+The application mainly focused on backend
+
 # Functions
 1: You can create and log in to your account
 
